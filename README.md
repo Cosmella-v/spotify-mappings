@@ -1,6 +1,9 @@
 # Spotify mappings
 Mappings for the website version of spotify! split between the miniplayer and the main website
 
+How to use:
+- use the mappings.yaml or the mappings.json for mappings!
+
 Contributing:
 - Either edit the Mappings/miniplayer or Mappings/spotify depending on if you are editing for the miniplayer or not
 
