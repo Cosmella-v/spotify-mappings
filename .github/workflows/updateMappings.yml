@@ -26,8 +26,8 @@ jobs:
         with:
           node-version: 22
 
-      - name: Install dependencies
-        run: npm install
+      - name: Install YAML parser
+        run: npm install yaml@2.9.0
 
       - name: Update Spicetify mapping
         run: node Scripts/UpdateSpiceify.js
