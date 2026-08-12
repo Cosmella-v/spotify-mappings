@@ -1,0 +1,50 @@
+name: Generate-Mapping
+
+on:
+  push:
+    paths:
+      - "Mappings/**/*.yaml"
+      - "Mappings/**/*.yml"
+      - "Scripts/*.js"
+      - ".github/workflows/updateMappings.yml"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-mappings:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Update Spicetify mapping
+        run: node Scripts/UpdateSpiceify.js
+
+      - name: Combine mappings
+        run: node Scripts/combineMappings.js
+
+      - name: Commit changes
+        run: |
+          git config user.name "Mapbot"
+          git config user.email "mapbot@users.noreply.github.com"
+
+          git add Mappings/spiceify.yaml mappings.yaml mappings.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update mappings"
+            git push
+          fi
