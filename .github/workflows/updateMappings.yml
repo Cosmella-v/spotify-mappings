@@ -1,6 +1,8 @@
 name: Generate-Mapping
 
 on:
+  schedule: # execute every 24 hours
+    - cron: "* */24 * * *"
   push:
     paths:
       - "Mappings/**/*.yaml"
