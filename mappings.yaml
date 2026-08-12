@@ -24,37 +24,6 @@ miniplayer-controls-list-gap:
 miniplayer-volume-button:
   - vlLNw2pxIPYjSvfi
   - mwBD3O5Pcs_t6eW9QH7a
-progress-bar:
-  - kPLEzaZADEAjWLC2
-  - SRfZTwPXaUiVkUEP3uld
-  - kPLEzaZADEAjWLC2s
-  - TywOcKZEqNynWecCiATc
-  - NP0jD9fPfkH_VmIJ4hEg
-  - LS6q7yFFlYCqXoVxEETT
-x-progressBar-progressBarBg:
-  - ikE27Bu2baQl9eex
-  - NuZQwzwm2yKxIGrFO_y4
-  - NoOAOv6U6vtqj_ybS1Cd
-  - BDW4CFlIaMu9sHJRFCCg
-x-progressBar-sliderArea:
-  - w699O0LgQRghXyl3bs9u
-  - OAj0DnLweBkv1xyZ
-  - nfLzZOKzyFjyut6toQIa
-  - JRShuZ9K3QC6x8Nl0FMu
-x-progressBar-progressFillColor:
-  - u8BnskTQM8Dtq9DG
-  - D3ukq4oRWEkyLsWPYziv
-x-progressBar-fillColor:
-  - pghDjOdspOgysFT72xOx
-  - dbkoNhkHaGoGEWoY
-  - JZ3wV4Y5GgAD0UFsQpE7
-  - TfVTZDI_lRJD2nIOQv3b
-  - epWhU7hHGktzlO_dop6z
-progress-bar__slider:
-  - RxlwJ6tCp4g6AAAH
-  - Vis45PPawTyED7Lt2_LI
-  - sUkzLbFQJMcD0k4CVDRl
-  - A9z4_R9gegKhgs_3D7Os
 miniplayer-background:
   - eGjSR6DCYZVI1Q32
 miniplayer-prev:
@@ -3326,6 +3295,17 @@ profile-userOverview-title:
   - uJxNEI2k7x8UCDdMKELt
 profile-userOverview-topTrackSubPage:
   - kWCnF32FrVtGHmTy8QeV
+progress-bar:
+  - kPLEzaZADEAjWLC2
+  - TywOcKZEqNynWecCiATc
+  - NP0jD9fPfkH_VmIJ4hEg
+  - LS6q7yFFlYCqXoVxEETT
+  - SRfZTwPXaUiVkUEP3uld
+progress-bar__slider:
+  - RxlwJ6tCp4g6AAAH
+  - Vis45PPawTyED7Lt2_LI
+  - sUkzLbFQJMcD0k4CVDRl
+  - A9z4_R9gegKhgs_3D7Os
 progress-bar--isDragging:
   - DuvrswZugGajIFNXObAr
 queue-queuePage-emptyContainer:
@@ -3775,6 +3755,12 @@ x-progressBar-disableProgressAnimatable:
   - _DrNS3e4ylFBzHyCWDF0
 x-progressBar-enabled:
   - ENGp3mqoFqfGLHott9_k
+x-progressBar-fillColor:
+  - pghDjOdspOgysFT72xOx
+  - dbkoNhkHaGoGEWoY
+  - JZ3wV4Y5GgAD0UFsQpE7
+  - epWhU7hHGktzlO_dop6z
+  - TfVTZDI_lRJD2nIOQv3b
 x-progressBar-foreground:
   - vSotTDmUOWTotCYudlgI
 x-progressBar-foregroundWrapper:
@@ -3789,8 +3775,21 @@ x-progressBar-progressBar:
   - eVonGEFHbUE9S2xfVA8d
 x-progressBar-progressBarActive:
   - edMDVHlUyeCR51HK_LGe
+x-progressBar-progressBarBg:
+  - ikE27Bu2baQl9eex
+  - NuZQwzwm2yKxIGrFO_y4
+  - NoOAOv6U6vtqj_ybS1Cd
+  - BDW4CFlIaMu9sHJRFCCg
+x-progressBar-progressFillColor:
+  - u8BnskTQM8Dtq9DG
+  - D3ukq4oRWEkyLsWPYziv
 x-progressBar-saberEnabled:
   - UHDS6Tgm15et79EOkj_9
+x-progressBar-sliderArea:
+  - w699O0LgQRghXyl3bs9u
+  - OAj0DnLweBkv1xyZ
+  - nfLzZOKzyFjyut6toQIa
+  - JRShuZ9K3QC6x8Nl0FMu
 x-progressBar-tooltipAnchor:
   - snYg67O_WNutGrCsqzIZ
 x-progressBar-wrapper:
