@@ -1356,6 +1356,7 @@ main-globalNav-searchContainer:
   - v8JHoFMumOgbCn8vsTvC
   - QrpHSphgBSqzODEHqr_t
   - lj0eGI6WEtfxFX7irC03
+  - mlx0CgXAnGz0dADVsCdS
 main-globalNav-searchInputContainer:
   - W9VXOkC43GP_7ULClgxQ
   - T0ufQRqPgIE3BmjD
@@ -3355,10 +3356,12 @@ Root__globalNav:
   - wgtzoAN2iFV0pENAqJko
   - qPaMr9Jzt0_Doy3C
   - nRSfonXHVr6utXYgk2Ui
+  - bQetA_KiP9n0DQVcGa7m
 Root__main-view:
   - B0fBZOXNHNc2YVYO
   - jEMA2gVoLgPQqAFrPhFw
   - HD6RiDXIzzF9i4Bx26AE
+  - nIxkUlXD1B9kghGyVJ6y
 Root__main-view-overlay:
   - mMjg1Gizg9kYk8ILoTdp
 Root__nav-bar:
@@ -3369,6 +3372,7 @@ Root__now-playing-bar:
   - YdGOYWQYr6kqh7KU
   - JG5J9NWJkaUO9fiKECMA
   - f9pLH3HRZQxdDLzNqKjE
+  - itzKVxWhS4n59fp_KIVc
 Root__right-sidebar:
   - LtqMCWXd5Nkemkym
   - OTfMDdomT5S7B5dbYTT8
@@ -3379,6 +3383,7 @@ Root__top-container:
   - ZQftYELq0aOsg6tPbVbV
   - POZtIm1wHFiwlxZY5i0a
   - iRGr6yO6lPcAKUoT
+  - zXqmJUq4Orp0Adt90GGA
 Root__top-container--has-notice-bar:
   - H1bRFdpa3qfekTVTeDwC
 Root__top-container--right-sidebar-hidden:
