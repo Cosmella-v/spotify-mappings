@@ -64,9 +64,18 @@ fs.writeFileSync(
   outputYaml,
   YAML.stringify(result)
 );
+
+const jsonMappings = {};
+
+for (const [name, ids] of Object.entries(result)) {
+  for (const id of ids) {
+    jsonMappings[id] = name;
+  }
+}
+
 fs.writeFileSync(
   outputJson,
-  JSON.stringify(result, null, 2) + "\n"
+  JSON.stringify(jsonMappings, null, 2) + "\n"
 );
 
 console.log(`Created ${outputYaml}!`);
