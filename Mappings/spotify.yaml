@@ -53,3 +53,58 @@ main-nowPlayingBar-extraControls:
 
 main-nowPlayingWidget-actionButtonWrapper:
 - XbPvmnihs9RIqUSkVHjv
+
+
+x-settings-container:
+- aKZXyiXjK8MrTVVTfsxR
+
+x-settings-headerContainer:
+- yl44TbW4QLVh3juV_5yo
+
+x-settings-section:
+- HdwEUcX8xijMdU7doYPt
+
+x-settings-row:
+- Z6yfNoSJ6OjiEBGI5Osr
+
+x-settings-firstColumn:
+- Vyn6sniGcz9bg9HOJZzK
+
+x-settings-secondColumn:
+- QAMwFEON3gSHy0A2wxJS
+
+x-toggle-wrapper:
+- dPdFwroo6kzNWWlbg19F
+
+x-toggle-input:
+- utdiMuyxdKvPowN1CIBs
+
+x-toggle-indicatorWrapper:
+- rIZf5Dl8ejanejy1X35Q
+
+x-toggle-indicator:
+- JEdZDZYsfpqpY04VFSnM
+
+main-dropDown-dropDown:
+- ZdgcJGtHav3WvlVH9xbl
+
+main-globalNav-searchInputWrapper:
+- HYAdp74EPSxNXv5y43K2
+
+main-topBar-searchBar:
+- JT_lB7XtA2AhQHSejYKH
+
+x-searchInput-searchInputInput:
+- llXIo5k34oirOybWOAyl 
+
+main-globalNav-searchInputTextWrapper:
+- bRRJlkldFGQjaL5FAFze
+
+main-globalNav-searchInputText:
+- f3zxlcazetW7hEgJi6ac
+
+main-actionBar-ActionBarContainer:
+- WiwnWsPYbL585uUaVMp3
+
+main-nowPlayingBar-container:
+- iSRS94_cCqyXK6cTi_X0 
