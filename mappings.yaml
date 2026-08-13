@@ -1,5 +1,6 @@
 miniplayer-container:
   - LIPGd48LPGcsxVD9
+  - EUJVBvHdIVLdTaMk7_Ed
 miniplayer-spotifyLogo-container:
   - Wkhm_rqc8_UkWESu
   - HhSuoNJcFUABmoELWriR
@@ -1575,6 +1576,7 @@ main-nowPlayingBar-center:
   - bGZUhy7AJlUgdvzB
   - P4eSEARM2h24PZxMHz1T
   - E526E3G50lCRjDpGVG5B
+  - El3q6p3dX2yPehnngMba
 main-nowPlayingBar-container:
   - Q2n2bdBXy28oQWoC
   - yglmI5m3fCc8baD1Kwdw
@@ -1590,6 +1592,7 @@ main-nowPlayingBar-extraControls:
   - vfI4ba4_zTQuZC5K
   - NClDR4CG_J8nuqy2uGn9
   - mwpJrmCgLlVkJVtWjlI1
+  - gCt8gWYAxj83pLHYhMoN
 main-nowPlayingBar-isAnonymous:
   - tT6x7wFZmjldiCeh6HzO
 main-nowPlayingBar-left:
@@ -1597,6 +1600,7 @@ main-nowPlayingBar-left:
   - ZJCXNvTeX4pAS9rt
   - OgkbKIVYE_mrNpYESylB
   - KkmXuF5h8DmzQUwGhT2u
+  - iAGZQR0R6RZq3LNmtQaQ
 main-nowPlayingBar-lyricsButton:
   - WWplj9LLqTE6whKO
   - Xmv2oAnTB85QE4sqbK00
@@ -1606,11 +1610,13 @@ main-nowPlayingBar-nowPlayingBar:
   - udArIAqnfUQPQew2VAns
   - OCY4jHBlCVZEyGvtSv0J
   - DLwH4stkW06ZbHFstpq0
+  - ouYyNOTVNjB7U4QTWD1G
 main-nowPlayingBar-right:
   - Y6soMMBElF7EQDbJv8Xb
   - S_MKpXvc3UwY8ZHX
   - pLifNBuHRY8cZkZyEqwL
   - jOKLc29vP0Bz1K0TsDtX
+  - dmD4SgFlo2B3x2OEAjGL
 main-nowPlayingBar-topButton:
   - uVRRxsH6RKj3Dzhl40Ok
 main-nowPlayingBar-volumeBar:
@@ -1861,6 +1867,7 @@ main-nowPlayingView-trackInfo:
 main-nowPlayingWidget-actionButtonWrapper:
   - mD6MFF1cf5MA9Uhb
   - qqAX5M23YurntqVJ_8Dt
+  - XbPvmnihs9RIqUSkVHjv
 main-nowPlayingWidget-coverArt:
   - vBMZGgINJ_BbsQM82LhK
   - BFR9Zt3zpL8BATBMiwQB
@@ -1875,6 +1882,7 @@ main-nowPlayingWidget-nowPlaying:
   - OhVah4L2N7DWZ8VnPhea
   - dqWyEouuQRo9mcQA
   - deomraqfhIAoSB3SgXpu
+  - LKeZSkjuHZ24rWntc9KF
 main-nowPlayingWidget-plusButton:
   - VGcEsoPgSTYlP1bwQPD5
   - YImjRdEJ5XECMt4k
@@ -3110,14 +3118,17 @@ player-controls:
   - kvv2iSoxzbkifaMQ
   - O56NBOTLyueNotL56zJt
   - gItY2hnfCB4TsDJCkPiO
+  - IGN6ZRjcquUIy9Gru5wR
 player-controls__buttons:
   - kBq3sMkivgMPe5qr
   - XrZ1iHVHAPMya3jkB2sa
   - fYf41RQrFiGX4KJcSq_5
+  - whjWqUAO0zpHJuoWr7oM
 player-controls__left:
   - NKUrT1GciYXAEEUtagN1
   - AcOiK58qUO3ELON8
   - GcbM2tnkJCvKOjRfp8RQ
+  - M2JmfO14JWCsGSjwzCF5
 player-controls__right:
   - Qt226Z4rBQs53aedRQBQ
   - O9zMd8LexCQNrpv5
@@ -3377,6 +3388,7 @@ Root__right-sidebar:
   - LtqMCWXd5Nkemkym
   - OTfMDdomT5S7B5dbYTT8
   - lAtoMFm8vg4yAlGztUxI
+  - VcWsGHoYggFHIgkGBb63
 Root__top-bar:
   - PHgyArRLVFknlaOm31ID
 Root__top-container:
