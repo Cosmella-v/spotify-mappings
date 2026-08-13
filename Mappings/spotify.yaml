@@ -1,5 +1,11 @@
 # for mappings that are not included into spiceify for some reason or for updating the web client
 
+x-progressBar-handle:  # assuming testid is correct
+- gQp3eui_nShZZ0Ly0xlw
+
+x-progressBar-background: # assuming testid is correct
+- H_o1A1RgPB3_6z7nL3_I
+
 progress-bar:
 - SRfZTwPXaUiVkUEP3uld
 
