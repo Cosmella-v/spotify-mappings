@@ -1,11 +1,5 @@
 # for mappings that are not included into spiceify for some reason or for updating the web client
 
-x-progressBar-handle:  # assuming testid is correct
-- gQp3eui_nShZZ0Ly0xlw
-
-x-progressBar-background: # assuming testid is correct
-- H_o1A1RgPB3_6z7nL3_I
-
 progress-bar:
 - SRfZTwPXaUiVkUEP3uld
 
@@ -27,3 +21,35 @@ Root__main-view:
 Root__globalNav:
 - bQetA_KiP9n0DQVcGa7m
 
+Root__right-sidebar:
+- VcWsGHoYggFHIgkGBb63
+
+main-nowPlayingBar-nowPlayingBar:
+- ouYyNOTVNjB7U4QTWD1G
+
+main-nowPlayingBar-left:
+- iAGZQR0R6RZq3LNmtQaQ
+
+main-nowPlayingBar-center:
+- El3q6p3dX2yPehnngMba
+
+player-controls:
+- IGN6ZRjcquUIy9Gru5wR
+
+player-controls__buttons:
+- whjWqUAO0zpHJuoWr7oM
+
+player-controls__left:
+- M2JmfO14JWCsGSjwzCF5
+
+main-nowPlayingWidget-nowPlaying:
+- LKeZSkjuHZ24rWntc9KF
+
+main-nowPlayingBar-right:
+- dmD4SgFlo2B3x2OEAjGL
+
+main-nowPlayingBar-extraControls:
+- gCt8gWYAxj83pLHYhMoN
+
+main-nowPlayingWidget-actionButtonWrapper:
+- XbPvmnihs9RIqUSkVHjv
