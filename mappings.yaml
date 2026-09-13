@@ -353,6 +353,8 @@ desktopmodals-versionStatus-content:
 desktopmodals-versionStatus-copyButton:
   - sU_Wp3eWSzMrHnkUmbdI
   - R83hOohwVshnd6bEkDO4
+dj-button:
+  - XTtlZOmdtscvhPLr
 folder-folderPage-sectionWrapper:
   - YJMECPbMHWgMUs8RFdcV
 GenericModal:
@@ -3506,14 +3508,14 @@ progress-bar:
   - LS6q7yFFlYCqXoVxEETT
   - qlztBvYSudkICUPJU5Lk
   - SRfZTwPXaUiVkUEP3uld
+progress-bar--isDragging:
+  - DuvrswZugGajIFNXObAr
 progress-bar__slider:
   - RxlwJ6tCp4g6AAAH
   - Vis45PPawTyED7Lt2_LI
   - sUkzLbFQJMcD0k4CVDRl
   - A9z4_R9gegKhgs_3D7Os
   - gQp3eui_nShZZ0Ly0xlw
-progress-bar--isDragging:
-  - DuvrswZugGajIFNXObAr
 queue-queuePage-emptyContainer:
   - gTvMl6pwfRD9PobMSB5x
 queue-queuePage-emptyContainerTitle:
@@ -3584,29 +3586,29 @@ Root__right-sidebar:
   - OTfMDdomT5S7B5dbYTT8
   - lAtoMFm8vg4yAlGztUxI
   - VcWsGHoYggFHIgkGBb63
-Root__right-sidebar-peek:
-  - eWU4JoxyECcwnSf_
-  - QTaJ5aMaWbcGbfG55xdG
-Root__right-sidebar-fauxMainViewEnd:
-  - SC_eWQl28srvyLED
-  - ON3UC20RHJUXl9U_vdAS
-Root__right-sidebar-overlayWrapper:
-  - vH8s0xuGZZAqkkUl
-  - E3uz3MDLssvNjOTzybzj
-Root__right-sidebar-peekContent:
-  - a_fKt7xvd8od_kEb
-  - CEEN562hGaSoGh6OTuSz
-Root__right-sidebar-overlay:
-  - wJiY1vDfuci2a4db
-Root__right-sidebar-overlayButton:
-  - Q3fgyBaNgcu34CP1
-Root__right-sidebar-expanded:
-  - Vmaq2JjgsQ0qt9VG
-  - HG_SAmNVHltVoZ6rrJ1Q
 Root__right-sidebar-collapsed:
   - fEThIghNSPAx5Xs3
 Root__right-sidebar-deferredCollapsed:
   - WXUVXy433Xk07S0H
+Root__right-sidebar-expanded:
+  - Vmaq2JjgsQ0qt9VG
+  - HG_SAmNVHltVoZ6rrJ1Q
+Root__right-sidebar-fauxMainViewEnd:
+  - SC_eWQl28srvyLED
+  - ON3UC20RHJUXl9U_vdAS
+Root__right-sidebar-overlay:
+  - wJiY1vDfuci2a4db
+Root__right-sidebar-overlayButton:
+  - Q3fgyBaNgcu34CP1
+Root__right-sidebar-overlayWrapper:
+  - vH8s0xuGZZAqkkUl
+  - E3uz3MDLssvNjOTzybzj
+Root__right-sidebar-peek:
+  - eWU4JoxyECcwnSf_
+  - QTaJ5aMaWbcGbfG55xdG
+Root__right-sidebar-peekContent:
+  - a_fKt7xvd8od_kEb
+  - CEEN562hGaSoGh6OTuSz
 Root__top-bar:
   - PHgyArRLVFknlaOm31ID
 Root__top-container:
