@@ -34,6 +34,9 @@ jobs:
       - name: Update Spicetify mapping
         run: node Scripts/UpdateSpiceify.js
 
+      - name: Create Bindings finder
+        run: node Scripts/Sigscan.js
+
       - name: Combine mappings
         run: node Scripts/combineMappings.js
 

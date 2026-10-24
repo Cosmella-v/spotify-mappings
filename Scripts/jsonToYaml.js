@@ -1,7 +1,7 @@
 const fs = require("node:fs");
 
 const input = JSON.parse(
-  fs.readFileSync("css-map.json" ||process.argv[2], "utf8")
+  fs.readFileSync(process.argv[2] || "css-map.json", "utf8")
 );
 
 const groups = {};
