@@ -1,38 +1,95 @@
+miniplayer-smallerPlayerUpsell:
+  - _MzIqkUqvXnFzs6PC5GL
+  - gDrPbJQiN4Ij2XGL
+  - gJ2Pte0tSDq7mRhzL_cb
+unk_overlay:
+  - FPOUnNIK5sEJxgYePOe7
+unk_Title:
+  - QCu2KIjyoz3lEIKNrBGQ
 miniplayer-container:
+  - ARdTwt0PuIoYx7R0BrJz
   - LIPGd48LPGcsxVD9
   - EUJVBvHdIVLdTaMk7_Ed
+main:
+  - JQpolEIyZYKI45mcyx4H
+miniplayer-background:
+  - DtdEU6DW3N6BYDMA_78l
+  - eGjSR6DCYZVI1Q32
+unk_controlsOverlay:
+  - n7BS2oAfcAoFbbqZ2YkA
+unk_windowButton:
+  - O18Fj7ar4YTYwb_d0sB7
+miniplayer-album-icon-container:
+  - zP8RkaHAmFjjFP0aF9Uf
+  - hukQHjDtM7_96LTo
+miniplayer-album-title:
+  - pIRf1dOxi5AFfcuAa15H
+  - cCcuw1qLMjQ3E9p3C4pg
+  - q9RjarbB5YMSfz3E
+miniplayer-album-artist:
+  - A2Hs2uQfC_nJgtItEPzg
+  - kPqLzCvWMQpO0NL5LgBb
+  - MROt6N1uTNw2xPlq
+miniplayer-controls-container:
+  - kia0vSwLS5OGxfNkwx4I
+  - iwppiS3kF5ERBTAC
+  - mM_WSx5yRBWqdDUmT4g4
+miniplayer-play-button:
+  - emmypqxN0Xp0bDur3XGm
+  - R_gfwL5sptgJJuwd
+  - ntmYgeI_EoEMrqR70wBj
+miniplayer-controls-list-gap:
+  - QvJJnJWhSbtXZfCLd5Ot
+  - a7MBMGUd8kJTLxex
+miniplayer-volume-button:
+  - vTJTMuDgiz0tGXKYoxK3
+  - vlLNw2pxIPYjSvfi
+  - mwBD3O5Pcs_t6eW9QH7a
+progress-bar:
+  - uI8JyD_faatLr66nS5Cb
+  - LS6q7yFFlYCqXoVxEETT
+  - NP0jD9fPfkH_VmIJ4hEg
+  - TywOcKZEqNynWecCiATc
+  - dtlxvrLl80cz9B_ihcuA
+  - kPLEzaZADEAjWLC2
+  - qlztBvYSudkICUPJU5Lk
+  - Nd6cUzZDlHX30QzhnExg
+  - f42lbbUT05gjuREF86Hw
+  - SRfZTwPXaUiVkUEP3uld
+x-progressBar-fillColor:
+  - C_oPDLKHmOSABQwEKgMs
+  - DSFo195E4d4V74MUyRSV
+  - JZ3wV4Y5GgAD0UFsQpE7
+  - TfVTZDI_lRJD2nIOQv3b
+  - dbkoNhkHaGoGEWoY
+  - epWhU7hHGktzlO_dop6z
+  - pghDjOdspOgysFT72xOx
+  - aZtKYi6r4EG1_WHGpmn9
+  - ISEJ4fISQcRgNTF5dVAA
+unk_progressThumb:
+  - qinWev06d0dPqPkQfCov
+mediaHandle:
+  - z4sqUHOpydUxxrX0vrZG
+media:
+  - bZbahvfcpU50g8Bgtnp7
+mediaVideo:
+  - oIpWW8LLxqB_7TPuv5PS
+contextInfo:
+  - TPZno1KJmHjxqVoa_NBm
+contextInfoMedium:
+  - biYxJApyzc1MqhNhAglP
+contextInfoActions:
+  - aMYFDEFgs5t4R9snXvSZ
+jamQrFlip:
+  - AHPagzNMycwSjSduHaIn
 miniplayer-spotifyLogo-container:
   - Wkhm_rqc8_UkWESu
   - HhSuoNJcFUABmoELWriR
-miniplayer-smallerPlayerUpsell:
-  - gDrPbJQiN4Ij2XGL
-  - gJ2Pte0tSDq7mRhzL_cb
-miniplayer-album-icon-container:
-  - hukQHjDtM7_96LTo
 miniplayer-album-gap:
   - EeSxqdf1LCcrscAz
-miniplayer-album-artist:
-  - kPqLzCvWMQpO0NL5LgBb
-  - MROt6N1uTNw2xPlq
-miniplayer-album-title:
-  - cCcuw1qLMjQ3E9p3C4pg
-  - q9RjarbB5YMSfz3E
-miniplayer-controls-container:
-  - iwppiS3kF5ERBTAC
-  - mM_WSx5yRBWqdDUmT4g4
-miniplayer-controls-list-gap:
-  - a7MBMGUd8kJTLxex
-miniplayer-volume-button:
-  - vlLNw2pxIPYjSvfi
-  - mwBD3O5Pcs_t6eW9QH7a
-miniplayer-background:
-  - eGjSR6DCYZVI1Q32
 miniplayer-prev:
   - cw4YZDWZMcYeCb9j
   - JqqIxgOikp1m6YtS5gM9
-miniplayer-play-button:
-  - R_gfwL5sptgJJuwd
-  - ntmYgeI_EoEMrqR70wBj
 miniplayer-next:
   - qkHHkOBCrq1cfA6qXdgR
 miniplayer-repeat-button:
@@ -4179,17 +4236,6 @@ profile-userOverview-title:
   - uJxNEI2k7x8UCDdMKELt
 profile-userOverview-topTrackSubPage:
   - kWCnF32FrVtGHmTy8QeV
-progress-bar:
-  - LS6q7yFFlYCqXoVxEETT
-  - NP0jD9fPfkH_VmIJ4hEg
-  - TywOcKZEqNynWecCiATc
-  - dtlxvrLl80cz9B_ihcuA
-  - kPLEzaZADEAjWLC2
-  - qlztBvYSudkICUPJU5Lk
-  - Nd6cUzZDlHX30QzhnExg
-  - f42lbbUT05gjuREF86Hw
-  - uI8JyD_faatLr66nS5Cb
-  - SRfZTwPXaUiVkUEP3uld
 progress-bar--isDragging:
   - DuvrswZugGajIFNXObAr
 progress-bar__slider:
@@ -4277,32 +4323,41 @@ Root__right-sidebar:
   - lAtoMFm8vg4yAlGztUxI
 Root__right-sidebar-collapsed:
   - fEThIghNSPAx5Xs3
+  - SdzkjfdCTbJVPr2ut4xM
 Root__right-sidebar-deferredCollapsed:
   - WXUVXy433Xk07S0H
+  - Jj4KbCyXj8hhOOS4OodY
 Root__right-sidebar-expanded:
   - HG_SAmNVHltVoZ6rrJ1Q
   - Vmaq2JjgsQ0qt9VG
   - qUbJMdiG7az31HJlXTvU
+  - lcI9OvBhlqmTGtESEz3_
 Root__right-sidebar-fauxMainViewEnd:
   - ON3UC20RHJUXl9U_vdAS
   - SC_eWQl28srvyLED
   - fLOjuMB2sHh2HkGuyMdG
+  - EDv8riWKLt7YJHtGqIA6
 Root__right-sidebar-overlay:
   - wJiY1vDfuci2a4db
+  - Clgyk1V8iQGkU1G6m5Lo
 Root__right-sidebar-overlayButton:
   - Q3fgyBaNgcu34CP1
+  - XY41f75F7SFHfsDfn88H
 Root__right-sidebar-overlayWrapper:
   - E3uz3MDLssvNjOTzybzj
   - vH8s0xuGZZAqkkUl
   - wijdPZdlH8uUjO8AZ3w3
+  - CiOD8FcUYi5qaFpucMPa
 Root__right-sidebar-peek:
   - QTaJ5aMaWbcGbfG55xdG
   - eWU4JoxyECcwnSf_
   - JUXAfp2JDMkv1PxyCCkK
+  - iZl4hCeW2xyCCK5nSCCL
 Root__right-sidebar-peekContent:
   - CEEN562hGaSoGh6OTuSz
   - a_fKt7xvd8od_kEb
   - zWzxvh50CPFKsFBEe6uX
+  - j5s9RY8stckaOEL0yAbt
 Root__top-bar:
   - PHgyArRLVFknlaOm31ID
 Root__top-container:
@@ -4861,16 +4916,6 @@ x-progressBar-disableProgressAnimatable:
   - _DrNS3e4ylFBzHyCWDF0
 x-progressBar-enabled:
   - ENGp3mqoFqfGLHott9_k
-x-progressBar-fillColor:
-  - DSFo195E4d4V74MUyRSV
-  - JZ3wV4Y5GgAD0UFsQpE7
-  - TfVTZDI_lRJD2nIOQv3b
-  - dbkoNhkHaGoGEWoY
-  - epWhU7hHGktzlO_dop6z
-  - pghDjOdspOgysFT72xOx
-  - aZtKYi6r4EG1_WHGpmn9
-  - ISEJ4fISQcRgNTF5dVAA
-  - C_oPDLKHmOSABQwEKgMs
 x-progressBar-foreground:
   - vSotTDmUOWTotCYudlgI
 x-progressBar-foregroundWrapper:
