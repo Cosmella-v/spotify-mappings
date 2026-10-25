@@ -4,22 +4,13 @@ miniplayer-smallerPlayerUpsell:
 unk_overlay:
  - FPOUnNIK5sEJxgYePOe7
 
-unk_overlayTitle:
+unk_Title:
  - QCu2KIjyoz3lEIKNrBGQ
-
-miniplayer-spotifyLogo_container:
- - qBR9ZwNQwuXveU9pFUDu
-
-unk_overlayExtra:
- - vRYCk4mjd7ZiGinm1lAw
-
-unk_overlayActions:
- - hMTqNr62GcikVrHZpvI9
 
 miniplayer-container:
  - ARdTwt0PuIoYx7R0BrJz
 
-unk_main:
+main:
  - JQpolEIyZYKI45mcyx4H
 
 miniplayer-background:
