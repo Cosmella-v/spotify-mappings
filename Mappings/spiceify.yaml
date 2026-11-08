@@ -1068,6 +1068,7 @@ main-contextMenu-disabled:
  - Y98_oiegQgSpY_o7hoKG
  - jJzb9peSGYsUDKbc5QBy
  - pzkhLqffqF_4hucrVVQA
+ - tx9utstBokwujTBSRAhG
 
 main-contextMenu-dividerAfter:
  - NmbeQabkSLXf0mTAhSLl
@@ -1075,6 +1076,7 @@ main-contextMenu-dividerAfter:
  - noRWQA3grBYNT5QG
  - pXsnH0sMlWUGBffe24cr
  - yO0rvyTlM0Hu4iDIycZE
+ - HI3IXCVHYXipk9iiUnc_
 
 main-contextMenu-dividerBefore:
  - EnQEoJ0Iq3oE3Rq2
@@ -1082,6 +1084,7 @@ main-contextMenu-dividerBefore:
  - a18VwKy6bTWgj2tAWVmB
  - hYwu7ZpcbQIP6iM5fzAu
  - jh5Yq5ylGtEpGtbz1UNg
+ - lLwRhLL708ID5qBdRhSw
 
 main-contextMenu-expandButton:
  - pc7Mq0FHh8Nlho4sOJH7
@@ -1117,6 +1120,7 @@ main-contextMenu-highlightedText:
 main-contextMenu-loadingContainer:
  - ibA08TpSVrM0wThmotVd
  - uEPiT_llP0oFNDYu_QZR
+ - O85A_ipbHl5YHM53hWUd
 
 main-contextMenu-menu:
  - LJej9EszIMJShPMMExpj
@@ -1125,10 +1129,12 @@ main-contextMenu-menu:
  - glp7Ah4Cywoy2Q6n
  - k4sYYpEpX2f7RMAPHv3F
  - wlb3dYO07PZuYfmNfmkS
+ - joj9Wg79Z_TvNI5sSlYg
 
 main-contextMenu-menuHeading:
  - qUeWph4VP9DwR4xOfabh
  - re2d5HDzt6T4XBgqcBhi
+ - pOsmW8TPy5R9okgMbpct
 
 main-contextMenu-menuItem:
  - DuEPSADpSwCcO880xjUG
@@ -1137,6 +1143,7 @@ main-contextMenu-menuItem:
  - jzMBaEByD6M9xRmS9mv8
  - rQ6LXqVlEOGZdGIG0LgP
  - yqG4N5YYcY4uEujt
+ - RHBYW8v_HarKVv6IBfR7
 
 main-contextMenu-menuItemButton:
  - KzLH25pAEr43wpSc
@@ -1145,6 +1152,7 @@ main-contextMenu-menuItemButton:
  - mWj8N7D_OlsbDgtQx5GW
  - niXChlbt7kxslMUdfwu9
  - wC9sIed7pfp47wZbmU6m
+ - ir_KyIMxEuMV4M8MYqzA
 
 main-contextMenu-menuItemButtonDisabled:
  - tT_JypfxNakuY1jHgyBN
@@ -1158,10 +1166,12 @@ main-contextMenu-menuItemLabel:
  - ctAknuakI8idqf_S9tvT
  - qUnVdUHbBFoYmLhT0_OC
  - yjdsntzei5QWfVvE
+ - YVwZUuH5T0Y3s2tLeMF2
 
 main-contextMenu-menuItemStatic:
  - Cjga8q3TFvtKCu9qfm27
  - llTZj1tjDr5ZnIOkKdHv
+ - DxctwpH9CoT3cicUo6IK
 
 main-contextMenu-overlay:
  - T2BaFHODss7KUUqG8Ryq
@@ -1178,10 +1188,12 @@ main-contextMenu-subMenuIcon:
  - IJYRnAk_0OE4UPQABQcl
  - iGw72tLfCJI5bdpgf7JQ
  - twYA62xkZMNWmd5FXvqi
+ - ZaTq5u7fjuDPRqfEvWnv
 
 main-contextMenu-subMenuLeading:
  - abJqsjKClbniwiTCZ7bC
  - wtEUrk4Sxa5e3QZhvbrs
+ - oFO3ykEGHSQbeHuENLO1
 
 main-contextMenu-tippy:
  - JdlsQruJXL4f6FPC
@@ -3780,16 +3792,20 @@ main-trackInfo-xsmallBadges:
 
 main-trackList-actionsHeader:
  - Ry7zokVNFKXaDxKp1Qf1
+ - vo7yzWK97zbhM7iF5rXo
 
 main-trackList-active:
  - ZgAJecvDDVREPXktThbA
  - iSbqnFdjb1SuyJ3uWydl
+ - evwEyTq8AvbDySiIQC5I
 
 main-trackList-addedBy:
  - eWNJl03RSvGa9VsxkJ_7
+ - o2PlUsMcEan_QEdyxqTw
 
 main-trackList-arrow:
  - zxSdNpIMNoVh8g3F9fqt
+ - evZ0Bk0P2m6O5Ab6QxNf
 
 main-trackList-changeVisibleButton:
  - KWK7VpljlAmuCl6UgKwr
@@ -3797,6 +3813,7 @@ main-trackList-changeVisibleButton:
 
 main-trackList-chartTrackList:
  - wE9dp6W8uInhrlbWPMsR
+ - YWwj4RZXQQJXAbKGlYk0
 
 main-trackList-column:
  - ASYv4mEu1lXEHVa04HqY
@@ -3808,6 +3825,7 @@ main-trackList-column:
 
 main-trackList-columnResizing:
  - r53kBgGOdrCYj2Jux0iN
+ - nl9ga8BgbmDEM5e4g0t9
 
 main-trackList-concertTrackList:
  - Wn5NpEuR1Qw99DelnfxX
@@ -3815,25 +3833,32 @@ main-trackList-concertTrackList:
 main-trackList-curationButton:
  - KJeaWI3jCZemsmu4eYL3
  - otqy2yIt_BVXLjoundpp
+ - XDyKFxYNpoi13eYPnBUx
 
 main-trackList-delayedVisibility:
  - SzsIJoBzlexhelPsHXnn
+ - DCT3kOyeCwB0c2uCYEM5
 
 main-trackList-disabled:
  - Ar1CZ7qjPHuIJY0cI56W
  - Unhd72dSzMriFEuvX2UU
+ - MWRWB3pY_XM1BomqHLEb
 
 main-trackList-discRow:
  - UuAaE00MS64uibJyxXxK
+ - CWhuBxjnbT7wMszYfqXW
 
 main-trackList-discTitle:
  - xmIMj8Eo8ZixOkuRQWd3
+ - GAaGjSkVSfrVOdckVwWZ
 
 main-trackList-dropTargetAfter:
  - WTbn2dLWM9fMMb3O4uKZ
+ - xPetaQyz0_VyjvT4a_2P
 
 main-trackList-dropTargetBefore:
  - xhgesf8qPsbyZY2NaYdH
+ - AHiff3SEMX21O2oBeSVp
 
 main-trackList-duration:
  - Na06TEk5cCR4FwBd
@@ -3855,23 +3880,29 @@ main-trackList-enhanced:
 
 main-trackList-eventDate:
  - vr04lRmH66LzICUXnwCq
+ - gSL5EbwdolK5CBPdZKyz
 
 main-trackList-eventTicketIcon:
  - OINF2mTM4cu2JjtkmPiz
+ - PMcSAi4cIw5xoMD6irQX
 
 main-trackList-eventVenue:
  - vL_PgycspyjCBwfFg9j9
+ - loqtzMsCCYlXyebBQy32
 
 main-trackList-facepile:
  - dZiDwJihz32GwQunXhnB
+ - taChonwuIaZYViHrNRgI
 
 main-trackList-facepileAvatar:
  - uWYVhrrTnV2V_VYhThDl
+ - Qe0YxIfcKikBY3gdXzPH
 
 main-trackList-icon:
  - FCzIz5e0Lpt4xa5zz2F1
  - vBFTtFW3Co9F_yJ_HjF4
  - xEtoX9iOYS58uDtKLmzR
+ - LfPg28vxf1qwE3SRf36Q
 
 main-trackList-indexable:
  - E6J2sVRgHMIQJ42C
@@ -3883,9 +3914,11 @@ main-trackList-indexable:
 
 main-trackList-isNextRowSelected:
  - Kb365Ykr7fUEvnvOH0vl
+ - RTc9kR9Ac7aCXtMbL3zx
 
 main-trackList-isPreviousRowSelected:
  - dXWJ1DecZeg_dpXZUbHL
+ - BgCPbOW7qhh4ME7C1kPc
 
 main-trackList-isRecommendedTrackListRow:
  - jDgf8MzZRbApYE6BW1qL
@@ -3893,15 +3926,18 @@ main-trackList-isRecommendedTrackListRow:
 
 main-trackList-nineteen:
  - HOP1JqKm27djuzPVbaRl
+ - YbaUaEbsm2Bh1tn9bqkg
 
 main-trackList-notificationDot:
  - w304euOUWkI5A8qAqFj8
+ - WS4wJA7J3hONt1gTg32d
 
 main-trackList-number:
  - C_ozwGWgtew4gZRM
  - VrRwdIZO0sRX1lsWxJBe
  - YCOwZBWtN6TZawPOEVI9
  - xNyTkXEncSjszLNI65Nq
+ - XVM86UnxO2mHrKbJ8Uks
 
 main-trackList-ownedBySelf:
  - nEZjuVeUuGSmYaQWgXTd
@@ -3909,32 +3945,41 @@ main-trackList-ownedBySelf:
 
 main-trackList-placeholder:
  - Iy7vi9cVsy6pS6wF8Dud
+ - Z20aGpBK2SogIydSuHDY
 
 main-trackList-placeholderEnd:
  - Dj9_CzXA7IbUFIz4wOsA
+ - SFrhYvgegdSXOR6yHGK4
 
 main-trackList-placeholderIndex:
  - cF8vKdBGYRZs_SpaG0Yz
+ - qyjPhNboN6NgGqnAQmBY
 
 main-trackList-placeholderStart:
  - J0lnyV5H9q4Jj7FK0A72
+ - VBiiJbyUIlLZ6KfSjX4a
 
 main-trackList-placeholderStartWithCoverImage:
  - BciIfT5b6BSIPIr6feK4
+ - _CdIsSbs4LdR7wusS2RE
 
 main-trackList-placeholderVariable:
  - noANc1fQSmaQNKYVDEDQ
+ - btK12K5ouFAO_73__qwL
 
 main-trackList-playingIcon:
  - DZJJ5SCypi2mREbjy5bx
  - n5XwsUqagSoVk8oMiw1x
+ - XZcu460cOTrZsASh8fGL
 
 main-trackList-playsHeader:
  - TYVy_QqiFWgzw0WkUiHb
  - s6jK2TtsvpysB_LjjS7g
+ - h9eD61Ydg7NFBB6eBalc
 
 main-trackList-queuePanelTracklist:
  - B2Dwok3Y07k2ttjGDssH
+ - uxtrcSrUVLgGhkCwe1fC
 
 main-trackList-resizeHandle:
  - Bob5Qz4qd2ApsH6o1loA
@@ -3946,10 +3991,12 @@ main-trackList-rowAddToPlaylistButton:
 main-trackList-rowBadges:
  - _7_yPy5jfb9kzk3gijq6A
  - sQcIERaiZKFhOM1LrSmX
+ - SdKuqE1TlAVAd6EtXae9
 
 main-trackList-rowCompactMode:
  - N7GZp8IuWPJvCPz_7dOg
  - UeRAfdSphrPaohh2HWmB
+ - Y5WRH2cZJ3GHMHr1sr6f
 
 main-trackList-rowDuration:
  - Btg2qHSuepFGBG6X0yEN
@@ -3959,13 +4006,16 @@ main-trackList-rowDuration:
 
 main-trackList-rowFeedback:
  - bnolo3jJ8KBxI6jyN7bD
+ - lTRTPA7bbcRA9NA6Esau
 
 main-trackList-rowFeedbackButton:
  - U_mTGq4vzVyOrPrB3mx4
+ - XcG9y663CXsmz8CIkGFB
 
 main-trackList-rowHeartButton:
  - GcODM2Bp3srQqJzi8Tzs
  - tGKwoPuvNBNK3TzCS5OH
+ - _YqNg9vF_UAzs7BiHLTQ
 
 main-trackList-rowImage:
  - BDOw_uxmzi8Yd04G9HLQ
@@ -3978,6 +4028,7 @@ main-trackList-rowImage:
 main-trackList-rowImageFallback:
  - EfStVlHpnUDOJF3pM93I
  - tgCyNnKttOMQXfuqVuhI
+ - FEOMdEUQnhYzJz4tW4AQ
 
 main-trackList-rowImagePlayButton:
  - RfidWIoz8FON2WhFoItU
@@ -3994,16 +4045,19 @@ main-trackList-rowImagePlayIcon:
 main-trackList-rowImagePlayPauseButton:
  - OXMPsUBpIQoIbOPIv7Bh
  - Qs11Fsr_XqTVFDFWWRkQ
+ - VuYU6p9xUkUCjZsHLf3T
 
 main-trackList-rowImagePlayPauseButtonPlaying:
  - DoIH4Mjt4sJFHkmAGs03
 
 main-trackList-rowImageVideo:
  - cxYjUh_DjUkRijOXGrOT
+ - ifgc69CFt6K7vFyzbbkX
 
 main-trackList-rowImageWithPlay:
  - byLkljnIRd_DJeSMD3LM
  - gmuBAqsC6pcufUyP1VQW
+ - XvjB_p1L5tA_Y5iNH591
 
 main-trackList-rowMainContent:
  - _iQpvk1c9OgRAc8KRTlH
@@ -4016,6 +4070,7 @@ main-trackList-rowMainContent:
 main-trackList-rowMainContentCompact:
  - ft6dUifK4i03829TBAqC
  - gQnx5tArze5q1wfG6AWJ
+ - NHLCskamDqg3P5sng9rn
 
 main-trackList-rowMainContentSubTitle:
  - ET4SVjxyjH4WkA3kSo5G
@@ -4042,14 +4097,17 @@ main-trackList-rowMoreButton:
  - mYN_ST1TsDdC6q1k1_xs
  - oJKr4Btybf8Bmafb
  - zeEKLLKAQgCfbY6qzb9A
+ - d0qn_LAH0OpGMeUE7X2i
 
 main-trackList-rowPlayCount:
  - HxDMwNr5oCxTOyqt85gi
  - nYg_xsOVmrVE_8qk1GCW
+ - bITElEwMjvDm7LnJ5qLc
 
 main-trackList-rowPlayPauseIcon:
  - UIBT7E6ZYMcSDl1KL62g
  - zOsKPnD_9x3KJqQCSmAq
+ - qFJlGz50l7Kb29QZpEqO
 
 main-trackList-rowSectionEnd:
  - HcMOFLaukKJdK5LfdHh0
@@ -4091,6 +4149,7 @@ main-trackList-rowSeperator:
 
 main-trackList-rowSubTitle:
  - rq2VQ5mb9SDAFWbBIUIn
+ - BgxmMy744x2k3fVJy8PI
 
 main-trackList-rowTitle:
  - btE2c3IKaOXZ4VNAb8WQ
@@ -4101,9 +4160,11 @@ main-trackList-rowTitle:
 main-trackList-selected:
  - JgERXNoqNav5zOHiZGfG
  - eRuZMo_HNLjb1IalIeRb
+ - TqTm7pjhN6tgNyT4c7pi
 
 main-trackList-showDisabledAsEnabled:
  - FCqh1RprhBCx2nZeC2Xi
+ - DzPJG_l01VeAyXIcisxK
 
 main-trackList-sortable:
  - Bh8ehD8at2hrINB7YMOg
@@ -4116,23 +4177,29 @@ main-trackList-sortable:
 main-trackList-statusChangeDown:
  - NJMsWXHYQgISlxnPODAD
  - vY_4na7XFQWMFH8phXCQ
+ - pMgGcn8MypgYrUUHdy_5
 
 main-trackList-statusChangeNew:
  - OqarR9DPk9OgwzSAwR05
  - YAINlTb90ZejTPv7k1dH
+ - AWsYmhOFC8oUi231Leoa
 
 main-trackList-statusChangeUp:
  - VrcWCORvyjWWMoz4Mbpd
  - zbBdn49lgTKVccLVZBqE
+ - SndmrHa_xWsGcziZHXEc
 
 main-trackList-talkIcon:
  - _3IwXr7oR_KZlfPfwMh7
+ - jmd7a2wdkVBaUymB9KW1
 
 main-trackList-talkSegmentDuration:
  - y8YIxGr73OXUGacKKsWb
+ - _lpeDVulx5RKdf6DdQbQ
 
 main-trackList-text:
  - jsV182e49Puwz9SIYt2J
+ - PgvXt1IwPYKHkj1ohRSK
 
 main-trackList-trackList:
  - F2EQtWZ0MHyB6sFaxUt7
@@ -4145,6 +4212,7 @@ main-trackList-trackList:
 main-trackList-trackListCompactMode:
  - iHiqmESWdGRBwk5cS7ZZ
  - ixZyJJ3SHxsSb3NHkhWn
+ - Imc2ZgyFH8aG8fA9EvzH
 
 main-trackList-trackListContainer:
  - YJ1Fk3MYSr81ZK5aWmlb
@@ -4171,6 +4239,7 @@ main-trackList-trackListHeaderRow:
 main-trackList-trackListHeaderStuck:
  - _2ajKWDiy6YvJu5wo8I1g
  - qJOhHoRcFhHJpEQ2CwFT
+ - U5EKmWxF_AHcuhhqWTN8
 
 main-trackList-trackListRow:
  - AWIrTV2Lx3pp211jnrfX
