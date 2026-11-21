@@ -1,3 +1,14 @@
+progress-bar:
+  - uI8JyD_faatLr66nS5Cb
+  - LS6q7yFFlYCqXoVxEETT
+  - NP0jD9fPfkH_VmIJ4hEg
+  - TywOcKZEqNynWecCiATc
+  - dtlxvrLl80cz9B_ihcuA
+  - kPLEzaZADEAjWLC2
+  - qlztBvYSudkICUPJU5Lk
+  - Nd6cUzZDlHX30QzhnExg
+  - f42lbbUT05gjuREF86Hw
+  - SRfZTwPXaUiVkUEP3uld
 miniplayer-smallerPlayerUpsell:
   - _MzIqkUqvXnFzs6PC5GL
   - gDrPbJQiN4Ij2XGL
@@ -45,17 +56,6 @@ miniplayer-volume-button:
   - vTJTMuDgiz0tGXKYoxK3
   - vlLNw2pxIPYjSvfi
   - mwBD3O5Pcs_t6eW9QH7a
-progress-bar:
-  - uI8JyD_faatLr66nS5Cb
-  - LS6q7yFFlYCqXoVxEETT
-  - NP0jD9fPfkH_VmIJ4hEg
-  - TywOcKZEqNynWecCiATc
-  - dtlxvrLl80cz9B_ihcuA
-  - kPLEzaZADEAjWLC2
-  - qlztBvYSudkICUPJU5Lk
-  - Nd6cUzZDlHX30QzhnExg
-  - f42lbbUT05gjuREF86Hw
-  - SRfZTwPXaUiVkUEP3uld
 x-progressBar-fillColor:
   - C_oPDLKHmOSABQwEKgMs
   - DSFo195E4d4V74MUyRSV
